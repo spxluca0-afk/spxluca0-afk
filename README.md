@@ -13,7 +13,6 @@
   <a href="https://it.trustpilot.com/review/flumo24studios.com"><img src="https://img.shields.io/badge/Trustpilot-recensioni-00b67a?style=for-the-badge&logo=trustpilot&logoColor=white" alt="Recensioni su Trustpilot"></a>
 </p>
 
----
 
 ### Cosa faccio
 
@@ -51,6 +50,5 @@ Tutti i lavori, con cosa c'era da risolvere e come l'abbiamo fatto: [flumo24stud
 Per un preventivo scrivi a **info.flumo24@gmail.com** o apri un ticket sul [server Discord](https://discord.gg/KhQ2DBUBwa).
 Rispondiamo entro 24 ore lavorative con un prezzo fisso.
 
----
 
 <sub>🇬🇧 I'm Luca, founder of Flumo24 Studios, a small development studio in Rome, Italy. We build websites, custom software, Discord bots, and we look after website security.</sub>
